@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font: italic bold 30px arial, sans-serif;
+    color: #003366;
+    background-color: #473db8;
+}
+button{
+    background: #0066A2;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 50px;
+    width: 200px;
+    font: italic bold 30px arial, sans-serif;
+    text-align: center;
+}
